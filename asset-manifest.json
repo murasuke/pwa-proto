@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/static/js/main.46adc5e2.chunk.js",
-    "main.js.map": "/static/js/main.46adc5e2.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b0af6ef9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b0af6ef9.js.map",
-    "static/js/2.eebb6582.chunk.js": "/static/js/2.eebb6582.chunk.js",
-    "static/js/2.eebb6582.chunk.js.map": "/static/js/2.eebb6582.chunk.js.map",
-    "static/js/3.aaed8c69.chunk.js": "/static/js/3.aaed8c69.chunk.js",
-    "static/js/3.aaed8c69.chunk.js.map": "/static/js/3.aaed8c69.chunk.js.map",
-    "index.html": "/index.html",
-    "service-worker.js": "/service-worker.js",
-    "service-worker.js.map": "/service-worker.js.map",
-    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.eebb6582.chunk.js.LICENSE.txt": "/static/js/2.eebb6582.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg"
+    "main.css": "/pwa-proto/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/pwa-proto/static/js/main.c08f15bf.chunk.js",
+    "main.js.map": "/pwa-proto/static/js/main.c08f15bf.chunk.js.map",
+    "runtime-main.js": "/pwa-proto/static/js/runtime-main.55320abd.js",
+    "runtime-main.js.map": "/pwa-proto/static/js/runtime-main.55320abd.js.map",
+    "static/js/2.eebb6582.chunk.js": "/pwa-proto/static/js/2.eebb6582.chunk.js",
+    "static/js/2.eebb6582.chunk.js.map": "/pwa-proto/static/js/2.eebb6582.chunk.js.map",
+    "static/js/3.aaed8c69.chunk.js": "/pwa-proto/static/js/3.aaed8c69.chunk.js",
+    "static/js/3.aaed8c69.chunk.js.map": "/pwa-proto/static/js/3.aaed8c69.chunk.js.map",
+    "index.html": "/pwa-proto/index.html",
+    "service-worker.js": "/pwa-proto/service-worker.js",
+    "service-worker.js.map": "/pwa-proto/service-worker.js.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/pwa-proto/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.eebb6582.chunk.js.LICENSE.txt": "/pwa-proto/static/js/2.eebb6582.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/pwa-proto/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0af6ef9.js",
+    "static/js/runtime-main.55320abd.js",
     "static/js/2.eebb6582.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.46adc5e2.chunk.js"
+    "static/js/main.c08f15bf.chunk.js"
   ]
 }
