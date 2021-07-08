@@ -18,6 +18,12 @@ serviceWorkerRegistration.register();
 
 ## github pagesへデプロイするためのymlファイルを作成する
 
+* package.jsonにhomepageのURL(github pages)を追加する 
+
+```json
+  "homepage": "https://murasuke.github.io/pwa-proto/",
+```
+
 * deploy用のキー生成
 
 ```bash
@@ -84,3 +90,5 @@ jobs:
 
 
 ## githubへpush する
+
+* pushするとactionsがデプロイする
