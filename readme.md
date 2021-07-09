@@ -7,7 +7,7 @@
 npx create-react-app pwa-proto --template cra-template-pwa-typescript
 ```
 
-`unregister()` ⇒ `register()`に変更
+`unregister()` ⇒ `register()`に変更（Service workerを利用する)
 ```typescript
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
@@ -91,4 +91,4 @@ jobs:
 
 ## githubへpush する
 
-* pushするとactionsがデプロイする
+* pushするとactionsがバックグラウンドでビルドしてpagesheへデプロイする
